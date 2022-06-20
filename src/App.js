@@ -100,7 +100,7 @@ function App() {
 },
 {
   title: "PRO",
-  month: 49,
+  month: 50,
   features:[
     {
       name: "unlimted user",
